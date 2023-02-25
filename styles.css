@@ -1,0 +1,46 @@
+fieldset{
+    display:block;
+    width:100%;
+    border: none;
+    padding: 2rem 0;
+    border-bottom: 3px solid #3b3b4f;
+}
+body{
+    display:block;
+    background-color: rgb(131, 131, 212);
+ }
+ label{
+    display:block;
+    margin:0.5rem 0;
+ }
+ #inline{
+display:inline;
+
+form{
+    display:flex;
+    flex: 1;
+    align-items: center;
+    
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+
+}
+
+ }
+ submit{
+    background-color: green;
+    color:white;
+ }
+ textarea{
+    margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+ }
+ .heading {
+   text-align: center;
+ }
+ .intro{
+    text-align: center;
+ }
